@@ -1,3 +1,4 @@
+markdown: kramdown
 theme: jekyll-theme-minimal
 title: Yves Wienecke
 description: Wait a minute, who are you?
