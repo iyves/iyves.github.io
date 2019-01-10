@@ -13,5 +13,5 @@ My hobbies include:
 * Learning new skills
 
 ## Check out my work:
-CS202 | CS305 | CS320 | CS465 | CS486
------ | ----- | ----- | ----- | -----
+| CS202 | CS305 | CS320 | CS465 | CS486 |
+| :---: | :---: | :---: | :---: | :---: |
