@@ -1,4 +1,4 @@
-# Yves Wienecke
+# Homepage
 
 ## About me
 Hello there! My name is __Yves__, it's pronounced like `wives`, but without the `w`. I know. It's *weird*, isn't it?
@@ -13,5 +13,5 @@ My hobbies include:
 * Learning new skills
 
 ## Check out my work:
-CS202|CS305|CS320|CS465|CS486
------|-----|-----|-----|-----
+CS202 | CS305 | CS320 | CS465 | CS486
+----- | ----- | ----- | ----- | -----
