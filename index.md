@@ -12,6 +12,7 @@ My hobbies include:
 * Knitting and crocheting
 * Learning new skills
 
-## Check out my work:
+## Check out my work
+
 | CS202 | CS305 | CS320 | CS465 | CS486 |
 | :---: | :---: | :---: | :---: | :---: |
