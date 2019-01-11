@@ -21,8 +21,8 @@ Letters that are capitalized in Russian words represent where the accent of the 
 
 
 
-<section>
 ## Концепт Европа<a name="concept_of_europe"></a>
+
 | С географической точки зрения Европа -- это ... |
 
 | Если говорить о Европе в аспекте в мировой истории, то ... |
@@ -30,4 +30,3 @@ Letters that are capitalized in Russian words represent where the accent of the 
 | В культурном отношении Европа характеризуется тем, что ... |
 | Если для характеристики Европы использовать религию, то можно сказать, что ... |
 | Если говорить о Европе с точки зрения национально-этнических отношений, то ... |
-</section>
