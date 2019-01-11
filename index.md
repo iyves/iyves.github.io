@@ -16,4 +16,5 @@ My hobbies include:
 
 
 | CS202 | CS305 | CS320 | CS465 | CS486 |
-| :---: | :---: | :---: | :---: | :---: |
+
+| [Russian](./Russian.md) | 
