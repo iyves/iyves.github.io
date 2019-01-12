@@ -12,6 +12,7 @@ Letters that are capitalized in Russian words represent where the accent of the 
 ### Expanded List of Opinion Words and Connectives
 
 | Russian | English or example |
+
 | --- | --- |
 | соглАсно +кому/чему | According to |
 | по словАм +кого | According to |
@@ -50,6 +51,7 @@ Letters that are capitalized in Russian words represent where the accent of the 
 | во врЕмя +чего | During |
 | сначАла/вначАле | Earlier... |
 | потОм/пОзже | Later... |
+
 <br /><br /><br /><br />
 
 ## Концепт Европа<a name="concept_of_europe"></a>
