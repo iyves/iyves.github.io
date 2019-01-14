@@ -120,7 +120,10 @@ Regardless of how the future of regulation progresses, I hope that companies wil
 and humanity rather than threatening democracy for revenue.
 
 
+<br /><br /><br /><br />
+
 <hr>
+
 ## Sources
 [1] Perekalin, Alex. "SiliVaccine: Antivirus from North Korea." *Kaspersky Lab official blog,* 9 Jan. 2019, [usa.kaspersky.com/blog/35c3-dprk-antivirus/16942](usa.kaspersky.com/blog/35c3-dprk-antivirus/16942/). <br />
 
