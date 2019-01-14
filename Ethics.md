@@ -1,6 +1,6 @@
 # CS305 - Ethical, Social, and Legal Implications of Computing
 
-## On the topic of data control
+## On the topic of internet control and regulation
 
 A group of researchers from Checkpoint recently got ahold of an alleged North Korean antivirus software from 2013.
 Twitter user Martyn Williams was sent an e-mail with the software attached and laced with additinal malware from 
@@ -8,7 +8,8 @@ a person claiming to work as a software engineer at a Japanese security company.
 software, named *실리왁찐 (SiliVaccine)* to Checkpoint researchers.
 
 <img alt="Email with North Korean antivirus attached" src="https://media.kasperskydaily.com/wp-content/uploads/sites/85/2019/01/09104304/35c3-dprk-antivirus-slide-1.jpg" width="50%"/>
- _1. Sketchy e-mail with SiliVaccine [1]_
+
+_1. Sketchy e-mail with SiliVaccine [1]_
 
 
 
@@ -33,7 +34,8 @@ western media such as wikipedia articles, Korean soap operas, more.
 
 
 <img alt="Picture of Kim Jong with usb in mouth" src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fthenypost.files.wordpress.com%2F2017%2F03%2F170315-north-korea-usb-drives-feature.jpg%3Fquality%3D90%26strip%3Dall%26w%3D1200&f=1" width="50%" />
- _2. "Importing hope into North Korea, one USB drive at a time" [2]_
+
+_2. "Importing hope into North Korea, one USB drive at a time" [2]_
 
 
 
@@ -76,11 +78,7 @@ the company is is unofficially banned from being sold in America by large telcom
 
 
 
-##
-
-
-
-## Future Steps
+## Internet regulation in America
 I believe that government regulation of a large platform for discussion and expressing one's opinions presents 
 the potential for abuse of power and overregulation. Although *some* regulation is necessary to uphold current
 laws against illegal activities like circulation of child pornography, it is easy for regulation to hinder
@@ -96,6 +94,23 @@ which the Internet is controlled in the future.
 
 
 
+## Future Steps
+
+I believe that it is integral to promote discussion between organizations dedicated to technology and the internet,
+and lawmakers. Active public discourse over future state of internet regulation should be held to include the 
+various perspectives of not only businesses and corportations, but also users. The impact of regulation reaches
+nearly every American, but it is unfathomable to expect every technology user to understand the details and 
+implications of internet regulation.
+
+However, there are a number of well-informed users such as content creators on youtube, website masters,
+contributors to open source software, and podcast hosts, who could enlighten and provide advice to lawmakers 
+for approching technology topics. The internet is a very powerful tool that is a part of the fabric of daily life
+for many Americans, so I believe that decisions regarding its regulation should include voices from many Americans.
+Regardless of how the future of regulation progresses, I hope that companies will better prioritize ethics
+and humanity rather than threatening democracy for revenue
+
+
+<hr>
 ## Sources
 [1] Perekalin, Alex. "SiliVaccine: Antivirus from North Korea." *Kaspersky Lab official blog,* 9 Jan. 2019, [usa.kaspersky.com/blog/35c3-dprk-antivirus/16942](usa.kaspersky.com/blog/35c3-dprk-antivirus/16942/). <br />
 
@@ -103,6 +118,6 @@ which the Internet is controlled in the future.
 
 [3] i-D. "China's Youth Breaking Through the Great Wall." *Youtube,* 15 Feb. 2018, www.youtube.com/watch?v=Buk8h5ijysQ. <br />
 
-[4] Shane, Scott, Daisuke Wakabayashi. "'The Business of Wr': Google Employees Protest Work for the Pentagon," *The New York Times,* 4 Apr 2018, [www.nytimes.com/2018/04/04/technology/google-letter-ceo-pentagon-project.html](www.nytimes.com/2018/04/04/technology/google-letter-ceo-pentagon-project.html). <br />
+[4] Shane, Scott, Daisuke Wakabayashi. "'The Business of War': Google Employees Protest Work for the Pentagon," *The New York Times,* 4 Apr 2018, [www.nytimes.com/2018/04/04/technology/google-letter-ceo-pentagon-project.html](www.nytimes.com/2018/04/04/technology/google-letter-ceo-pentagon-project.html). <br />
 
 [5] LaForgia, Michael, Gabrial J.X. Dance. "Facebook Gave Data Access to Chinese Firm Flagged by U.S. Intelligence." *The New York Times,* 5 Jun 2018, [www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html](www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html). <br />
