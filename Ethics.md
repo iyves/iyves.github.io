@@ -1,11 +1,15 @@
 # CS305 - Ethical, Social, and Legal Implications of Computing
 
-## On the topic of internet control and regulation
+#Blog post 1: On the topic of internet control and regulation
+**By Yves Wienecke**
+January 13, 2019
 
-A group of researchers from Checkpoint recently got ahold of an alleged North Korean antivirus software from 2013.
-Twitter user Martyn Williams was sent an e-mail with the software attached and laced with additinal malware from 
-a person claiming to work as a software engineer at a Japanese security company. Williams then forwarded the 
-software, named *실리왁찐 (SiliVaccine)* to Checkpoint researchers.
+## SiliVaccine
+
+Twitter user Martyn Williams was sent an e-mail with and alleged North Korean antivirus software from 2013 attached 
+and laced with additinal malware from a person claiming to work as a software engineer at a Japanese security company. 
+Williams then forwarded the software, named *실리왁찐 (SiliVaccine)* to Checkpoint researchers, who took it to their
+labs for research and analysis.
 
 <img alt="Email with North Korean antivirus attached" src="https://media.kasperskydaily.com/wp-content/uploads/sites/85/2019/01/09104304/35c3-dprk-antivirus-slide-1.jpg" width="50%"/>
 
@@ -13,22 +17,24 @@ _1. Sketchy e-mail with SiliVaccine [1]_
 
 
 
-After analyzing the software, researchers they discovered that about 25% of the antivirus
-software's source code was identical to an older verson of a Japanese antivirus software, Trend Micoro. 
+After analyzing the software, researchers discovered that about 25% of the antivirus
+software's source code was identical to an older verson of a Japanese antivirus software: Trend Micoro. 
 As for the remaining code, researchers found many bugs and conflicting functionality. For example, attempts 
 to scan a file by right-clicking the file and selecting an option on the drop-down menu resulted in no activity.
 
 
-To give some background, the current state of North Korean technology is heavily controlled and regulated by officials.
-North Korea has a firm hold on the access and type of media that citizens are able to access. The internet is banned
-widespread usage among North Korean citizens; instead North Korea makes use of an intranet that, in contrast to the
-outwardly, public-facing internet, is a private network isolated from other countries. 
+In order to understand the purpose for such a software in a country like North Korea, it is important to understand
+the current state of technology in the country. To give some background, in North Korea, technology is heavily 
+controlled and regulated by government officials. North Korea has a firm hold on the access and type of media that 
+citizens are able to access. The internet is banned widespread usage among North Korean citizens; instead North Korea 
+makes use of an intranet that, in contrast to the outwardly, public-facing internet, is a private network isolated 
+from other countries. 
 
 
 With this in mind, it may seem baffling as to the reasons for which North Korea employs the usage of an antivirus - 
 after all, if North Korean servers are blocked from the outside world and vice versa, then the potential for threat 
-and cyber attack incidences drop quite dramatically. something labs researchers explained that even the North 
-Korean enclosed intranet is not immune to unwanted software with the efforts of human rights organizations 
+and cyber attack incidences should drop quite dramatically. Checkpoint researchers explained that the enclosed North 
+Korean intranet is not immune to unwanted software as a result of the efforts of human rights organizations 
 such as Flash Drives for Freedom who accept USB drive donations and smuggle these USBs across the border filled with 
 western media such as wikipedia articles, Korean soap operas, more.
 
@@ -63,34 +69,37 @@ under fire last year for enabling China's restrictive firewall with work on Proj
 
 
 ## Project Dragonfly
-Not too long after employees of Google protested collaboration with the American military for drone usage, the 
+Not too long after employees of Google protested the company's collaboration with the American military for using
+artificial intelligence along with drones to identify human targts, the 
 tech giant was placed under scrutiny once again for working with China on a search engine, named Dragonfly. [4] 
 This variant of the google search engine would greatly expand the userbase and boost revenue for Google on the
-condition that the engine agree with Chinese censorship and internet regulation. This would silence peaceful
-protests or produce misleading results for topics that may cast the government in a bad light such as the Tiananmen 
-Square.
+condition that the engine agree with Chinese censorship laws and internet regulation. This would silence peaceful
+protests or produce misleading results for topics that may cast the government in a bad light. Searching on such
+asn engine for information on Tiananmen Square would return no result insteading the greusome reality of the 
+government demolishing groups of protesters.
 
-Google is not the only company guilty of reaching to China despite ethical concerns. After being banned in China
+Google is not the only company guilty of interacting with China despite ethical concerns. After being banned in China
 in 2009, Facebook has been attempting to develop relationships with Chinese companies to expand their market in
 China. These attempts involve sharing data with Chinese companies such as Huawei - a company that is in close
 contact with the Chinese government. Due to concerns of cyber espionage from microscopic cards on Huawei phones,
-the company is is unofficially banned from being sold in America by large telcom companies like AT&T and Verizon. 
+the company is now unofficially banned from being sold in America by large telcom companies like AT&T and Verizon. 
 
 
 
 ## Internet regulation in America
 I believe that government regulation of a large platform for discussion and expressing one's opinions presents 
 the potential for abuse of power and overregulation. Although *some* regulation is necessary to uphold current
-laws against illegal activities like circulation of child pornography, it is easy for regulation to hinder
+laws against illegal activities like the circulation of child pornography, it is easy for regulation to hinder
 free speech. The discussion over regulating the internet is especially concerning due to the natural state of 
-the interne: ever changing and rapidly dynamic. For example, copyright laws on youtube videos and laws regarding
-net neutrality stir mixed emotions amongst internet users, lawmakers, and companies.
+the internet: ever changing and rapidly dynamic. Internet trends and jokes can sometimes last mere days before
+changing focus to something completely different. 
 
 It seems that there is a deficit in the discussion of internet regulation of lawmakers and government officials 
 who are qualified and highly knowledgeable about the today's technology and the innerworkings of the internet.
-Virtual space is new and can not be approached the same way as physical space. Furthermore, decisions on
-regulation laws have the potential for setting positive or negative precedent, which will impact the way in
-which the Internet is controlled in the future.
+Virtual space is new and can not be approached the same way as physical space. For example, copyright laws on 
+youtube videos and laws regarding net neutrality stir mixed emotions amongst internet users, lawmakers, and companies.
+Furthermore, decisions on regulation laws have the potential for setting positive or negative precedent, which 
+will impact the way in which the Internet is controlled in the future.
 
 
 
@@ -107,7 +116,7 @@ contributors to open source software, and podcast hosts, who could enlighten and
 for approching technology topics. The internet is a very powerful tool that is a part of the fabric of daily life
 for many Americans, so I believe that decisions regarding its regulation should include voices from many Americans.
 Regardless of how the future of regulation progresses, I hope that companies will better prioritize ethics
-and humanity rather than threatening democracy for revenue
+and humanity rather than threatening democracy for revenue.
 
 
 <hr>
