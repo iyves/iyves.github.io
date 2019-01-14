@@ -88,7 +88,7 @@ the company is now unofficially banned from being sold in America by large telco
 
 
 ## Internet regulation in America
-I believe that government regulation of a large platform for discussion and expressing one's opinions presents 
+Government regulation of a large platform for discussion and expressing one's opinions presents 
 the potential for abuse of power and overregulation. Although *some* regulation is necessary to uphold current
 laws against illegal activities like the circulation of child pornography, it is easy for regulation to hinder
 free speech. The discussion over regulating the internet is especially concerning due to the natural state of 
