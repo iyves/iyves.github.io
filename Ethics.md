@@ -1,6 +1,6 @@
 # CS305 - Ethical, Social, and Legal Implications of Computing
 
-#Blog post 1: On the topic of internet control and regulation
+# Blog post 1: On the topic of internet control and regulation
 
 **By Yves Wienecke**
 January 13, 2019
