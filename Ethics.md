@@ -8,7 +8,9 @@ a person claiming to work as a software engineer at a Japanese security company.
 software, named *실리왁찐 (SiliVaccine)* to Checkpoint researchers.
 
 <img alt="Email with North Korean antivirus attached" src="https://media.kasperskydaily.com/wp-content/uploads/sites/85/2019/01/09104304/35c3-dprk-antivirus-slide-1.jpg" width="50%"/>
-_1. Sketchy e-mail with SiliVaccine [1]_
+ _1. Sketchy e-mail with SiliVaccine [1]_
+
+
 
 After analyzing the software, researchers they discovered that about 25% of the antivirus
 software's source code was identical to an older verson of a Japanese antivirus software, Trend Micoro. 
@@ -31,7 +33,9 @@ western media such as wikipedia articles, Korean soap operas, more.
 
 
 <img alt="Picture of Kim Jong with usb in mouth" src="https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fthenypost.files.wordpress.com%2F2017%2F03%2F170315-north-korea-usb-drives-feature.jpg%3Fquality%3D90%26strip%3Dall%26w%3D1200&f=1" width="50%" />
-_2. "Importing hope into North Korea, one USB drive at a time" [2]_
+ _2. "Importing hope into North Korea, one USB drive at a time" [2]_
+
+
 
 North Korea's control over the content that citizens are able to view raises an interesting question about the role
 of government in regulating content shared over the internet. In the case of North Korea, where viewing banned 
@@ -64,6 +68,16 @@ condition that the engine agree with Chinese censorship and internet regulation.
 protests or produce misleading results for topics that may cast the government in a bad light such as the Tiananmen 
 Square.
 
+Google is not the only company guilty of reaching to China despite ethical concerns. After being banned in China
+in 2009, Facebook has been attempting to develop relationships with Chinese companies to expand their market in
+China. These attempts involve sharing data with Chinese companies such as Huawei - a company that is in close
+contact with the Chinese government. Due to concerns of cyber espionage from microscopic cards on Huawei phones,
+the company is is unofficially banned from being sold in America by large telcom companies like AT&T and Verizon. 
+
+
+
+##
+
 
 
 ## Future Steps
@@ -90,3 +104,5 @@ which the Internet is controlled in the future.
 [3] i-D. "China's Youth Breaking Through the Great Wall." *Youtube,* 15 Feb. 2018, www.youtube.com/watch?v=Buk8h5ijysQ. <br />
 
 [4] Shane, Scott, Daisuke Wakabayashi. "'The Business of Wr': Google Employees Protest Work for the Pentagon," *The New York Times,* 4 Apr 2018, [www.nytimes.com/2018/04/04/technology/google-letter-ceo-pentagon-project.html](www.nytimes.com/2018/04/04/technology/google-letter-ceo-pentagon-project.html). <br />
+
+[5] LaForgia, Michael, Gabrial J.X. Dance. "Facebook Gave Data Access to Chinese Firm Flagged by U.S. Intelligence." *The New York Times,* 5 Jun 2018, [www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html](www.nytimes.com/2018/06/05/technology/facebook-device-partnerships-china.html). <br />
