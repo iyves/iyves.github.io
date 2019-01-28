@@ -2,3 +2,4 @@
 
 * [Week 1: On the topic of internet control and regulation](./CS305/W1.md)
 * [Week 2: China as a technological dystopia](./CS305/W2.md)
+* [Week 3: Simplification of Technology](./CS305/W3.md)
