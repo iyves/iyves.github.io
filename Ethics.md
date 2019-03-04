@@ -7,3 +7,5 @@
 * [Week 5: Picture Perfect](./CS305/W5.md)
 * [Week 6: Smart Cities](./CS305/W6.md)
 * [Week 7: The Youtube Algorithm](./CS305/W7.md)
+* [Week 8: To make life simpler](./CS305/W8.md)
+

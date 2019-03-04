@@ -15,6 +15,4 @@ My hobbies include:
 ## Check out my work
 
 
-| CS202 | [CS305](./Ethics.md) | CS320 | CS465 | CS486 |
-
-| [Russian](./Russian.md) | 
+| [CS305](./Ethics.md) | [Russian](./Russian.md) | 
