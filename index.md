@@ -15,4 +15,4 @@ My hobbies include:
 ## Check out my work
 
 
-| [CS305](./Ethics.md) | [Russian](./Russian.md) | 
+| [CS305](./Ethics.md) | [Russian](./Russian/Russian.md) | 
